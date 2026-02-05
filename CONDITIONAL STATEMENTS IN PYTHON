@@ -1,0 +1,27 @@
+age =10
+if age>=18:
+    print("adult")
+else:
+    print("minor")  #if statement
+i=30
+if i ==10:
+    print("i is 10")
+elif i==15:
+     print("i is 15")
+elif i==20:
+    print("i is 20")
+else:
+    print ("i not present")# if..elif..else
+
+age =18
+if age>=18:
+    print("eligible to vote")#if statement
+x=40
+if x>20:
+    print("x is greater than 20")
+    if x>30:
+        print("x is greater than 30")
+    else:
+        print("x is not greater than 30")
+else:
+    print("x is not greater than 20")    #nested if 
