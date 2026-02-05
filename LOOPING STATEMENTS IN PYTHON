@@ -1,0 +1,17 @@
+for i in range (5):
+    print(i) #for loop
+i=1
+while i<=5:
+    print(i)
+    i=i+1 #while loop
+fruits = ["apple","banana","mango"]
+for fruit in fruits :
+    print(fruit)   #looping throgh a list
+for i in range (10):
+    if i ==5:  
+        break
+    print (i)  #break statement
+for i in range (5):
+    if i ==2:
+        continue
+    print (i)#continue statement 
