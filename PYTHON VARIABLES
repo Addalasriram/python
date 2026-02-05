@@ -1,0 +1,6 @@
+x=5
+name="sriram"
+is_vaild="true"
+print(name)
+print(x)
+print(is_vaild)
