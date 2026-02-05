@@ -1,0 +1,6 @@
+age=20
+price=9.99
+z=2+3j
+print(age)
+print(price)
+print(z)
