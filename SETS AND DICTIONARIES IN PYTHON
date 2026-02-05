@@ -1,0 +1,22 @@
+fruits={'apple','banana','orange'}
+print(fruits) #sets
+fruits.add('mango')
+fruits.remove('apple') #sets
+
+student={
+"name":"sriram",
+"age":20,
+"branch":"csd"
+}
+print(student)#dictionaries
+
+#adding/updating item
+student={"name":"sriram","age":21}
+student["college"]="kiet"#adding value
+student["age"]=22#update value
+print(student)
+
+student={"name":"sriram","age":21,"branch":"csd"}
+student.pop("age")#remove age
+del student ["branch"]#delete branch
+print(student)
