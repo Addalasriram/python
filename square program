@@ -1,0 +1,3 @@
+def square (n):
+    print("square is :",n*n)
+square(4) 
