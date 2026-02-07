@@ -1,0 +1,4 @@
+def greet (name):
+    print("good morning",name)
+n=input("enter your name :")
+greet(n)  
