@@ -1,0 +1,4 @@
+def simple_interest (p,t,r):
+    si=(p*t*r)/100
+    print("simple interest :",si)
+simple_interest(100,2,5) 
