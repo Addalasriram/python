@@ -1,0 +1,4 @@
+def multiply (a,b):
+    c=a*b
+    print("multiplication :",c)
+multiply(20,4)   
